@@ -1,8 +1,30 @@
-Hello! My name is Mikhail Grigorev
+# Hi there, I'm Mikhail Grigorev
 
-I am a professional system administrator for Linux (Debian-like and RedHat-like) and Windows (2012/2016) and databases (MySQL, PostgreSQL, Clickhouse).
+## About Me
 
-I have been working for over 20 years.
+- 🔭 I'm currently working on various open-source projects.
+- 🌱 I'm learning new technologies and databases.
+- 👯 I'm looking to collaborate on interesting and innovative projects.
+- 🤔 I'm open to discussing new ideas and brainstorming solutions.
+- 💬 Ask me about anything related to Linux and PostgreSQL/MySQL and technology.
+- 📫 How to reach me: [GitHub](https://github.com/CHERTS)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love exploring new database tools.
+
+## Skills
+
+- **Languages:** C, Go, Bash, Delphi
+- **OS:** Windows Server and Linux (Debian-like, RedHat-like)
+- **Tools:** Git, Docker, Kubernetes, GitHub Actions
+- **Databases:** MySQL, PostgreSQL, Clickhouse
+- **Cloud Services:** AWS, Yandex.Cloud
+  
+## Projects
+
+Here are a few projects I've been working on:
+
+- [pgSCV](https://github.com/CHERTS/pgscv): pgSCV is a PostgreSQL ecosystem metrics collector
+- [zabbix_dbmon](https://github.com/CHERTS/zabbix_dbmon): Zabbix for databases monitoring without externals scrips and etc (MySQL, PgSQL, Oracle)
 
 You can read articles on [my blog](https://blog.programs74.ru) and ask me questions by [email](mailto:sleuthhound@gmail.com)
 
