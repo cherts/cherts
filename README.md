@@ -25,6 +25,9 @@ Here are a few projects I've been working on:
 
 - [pgSCV](https://github.com/CHERTS/pgscv): pgSCV is a PostgreSQL ecosystem metrics collector
 - [zabbix_dbmon](https://github.com/CHERTS/zabbix_dbmon): Zabbix for databases monitoring without externals scrips and etc (MySQL, PostgreSQL, Oracle)
+- [linux-scripts](https://github.com/CHERTS/linux-scripts): Useful bash/shell scripts for Linux/Unix administrators
+- [pg_repack_docker](https://github.com/CHERTS/pg_repack_docker): Docker image with 'pg_repack' (PostgreSQL extension) installed, can be used 'client-side' to run/invoke pg_repack functionality for a PostgreSQL database with the extension installed.
+- [ocserv_docker](https://github.com/CHERTS/ocserv_docker): Docker image (using alpine linux) with OpenConnect server (ocserv) installed.
 
 ## GitHub Stats
 
