@@ -26,6 +26,18 @@ Here are a few projects I've been working on:
 - [pgSCV](https://github.com/CHERTS/pgscv): pgSCV is a PostgreSQL ecosystem metrics collector
 - [zabbix_dbmon](https://github.com/CHERTS/zabbix_dbmon): Zabbix for databases monitoring without externals scrips and etc (MySQL, PgSQL, Oracle)
 
-You can read articles on [my blog](https://blog.programs74.ru) and ask me questions by [email](mailto:sleuthhound@gmail.com)
+## GitHub Stats
 
-[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=cherts)](https://github.com/LordDashMe/github-contribution-stats/)
+![CHERTS's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CHERTS&show_icons=true&theme=radical)
+
+## Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CHERTS&layout=compact&theme=radical)
+
+## Connect with Me
+
+- [Telegram](https://t.me/cherts)
+- [Email](mailto:sleuthhound@gmail.com)
+- [My blog](https://blog.programs74.ru)
+
+Thanks for visiting my profile! Have a great day! 😊
