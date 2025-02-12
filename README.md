@@ -24,7 +24,7 @@
 Here are a few projects I've been working on:
 
 - [pgSCV](https://github.com/CHERTS/pgscv): pgSCV is a PostgreSQL ecosystem metrics collector
-- [zabbix_dbmon](https://github.com/CHERTS/zabbix_dbmon): Zabbix for databases monitoring without externals scrips and etc (MySQL, PgSQL, Oracle)
+- [zabbix_dbmon](https://github.com/CHERTS/zabbix_dbmon): Zabbix for databases monitoring without externals scrips and etc (MySQL, PostgreSQL, Oracle)
 
 ## GitHub Stats
 
